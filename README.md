@@ -10,6 +10,10 @@
     * 2. Способ с установлением расширения для Visual Studio.
       * 1. Запускаем Visual Studio 
       * 2. Нажимаем на кнопку в верхней панеле: Расширения -> Управление расширениями
-      * ![Alt text](https://github.com/RageHaker/Work_with_Readme/blob/master/ReadmeImages/1.png)
-      * 3. В поисковую строку ставим Markdown
-      * ![Alt text](https://github.com/RageHaker/Work_with_Readme/blob/master/ReadmeImages/2.png)
+      ![Alt text](https://github.com/RageHaker/Work_with_Readme/blob/master/ReadmeImages/1.png)
+      * 3. В поисковую строку вписываем Markdown и устанавливаем его (обязательно перезагружаем Visual studio)
+      ![Alt text](https://github.com/RageHaker/Work_with_Readme/blob/master/ReadmeImages/2.png)
+      * 4. Далее создаём новый элемент "Текстовый файл" ( в конце расширение меняем на .md, на скриншоте я забыл это указать)
+      ![Alt text](https://github.com/RageHaker/Work_with_Readme/blob/master/ReadmeImages/3.png)
+      * 5. Двойное нажатие по элементу и у нас открывается сразу 2 окна: 1 - это редактор, 2 - это просмотр
+      ![Alt text](https://github.com/RageHaker/Work_with_Readme/blob/master/ReadmeImages/4.png)
